@@ -1,0 +1,68 @@
+Let's Get Started, Coder!!
+Fill the following Document
+__________________________________________________________________________
+
+1. Which one of the following is an Imperative Language?
+
+⦁	HTML
+⦁	CSS
+⦁	Java Script
+
+Answer :  HTML 
+
+2. Which one of the following is a Declarative Language?
+
+⦁	HTML
+⦁	CSS
+⦁	Java Script
+
+Answer:  Java Script
+
+3. Name two uses of a DIV tag?
+
+Answer: The two uses of div tag are :
+
+* It is used to make divisions of content in the web page like (text, images, header etc.)
+
+* It can be used with the class, lang, and title attributes to mark up semantics common to a group of consecutive elements.
+
+
+4. What is the difference between relative positioning and absolute positioning in HTML?
+
+Answer: Relative places an element relative to its current position without changing the layout around it, whereas position absolute places an element relative to its parent's position and changing the layout around it.
+
+
+5. What is the use of opacity in CSS?
+
+Answer: The CSS opacity property is used to specify the transparency of an element. 
+
+
+6. Which is the programming language used in the React Native Framework?
+
+Answer:  The programming language used in the React Native Framework is JavaScript.
+
+
+7. Which online editor are we using for creating our apps in React Native Framework?
+
+Answer: The online editor are we using for creating our apps in React Native Framework is 'snack'
+
+
+8. Write the steps to test your first designed app in the online editor on mobile.
+
+Answer: first step : we have to open the expo  editor and download the expo app in our mobile 
+ second step : In the editor we have to click on the android button on the top right corner and 
+ then click on 'run on my device'
+ third step :  we have to scan the code on our laptop from our mobile and then it will show the output in our mobile
+
+
+9. What is the use of the render function in React Native Framework?
+
+Answer: The render function in React Native Framework displays everything in the return function. Without, there would not be anything displayed in the output.
+
+10. What is the use of the return function in the React Native Framework?
+
+Answer: The return function tells the device what to display. Everything inside will be shown in the output if it is within the render function.
+
+11. What are the various components in your first app that you designed?
+
+Answer: Text, View, Button , React , onPress , TouchableOpacity,StyleSheet are the various components that I designed in my first app.  
